@@ -14,4 +14,4 @@ Topic - Cross-Paper-Scissor
 
 PPT is uploaded with name 05-CPAD-Assign.pptx
 
-Also a video file for demo is uploaded.
+Also a video file for demo is uploaded name 05-CPAD-DEMO.mp4.
