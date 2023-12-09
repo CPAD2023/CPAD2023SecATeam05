@@ -20,6 +20,6 @@
   return [[NSBundle mainBundle] URLForResource:@"main" withExtension:@"jsbundle"];
 #endif
 }
-// You can add your custom initial props in the dictionary.
+// You can add your custom initial props .
 
 @end
