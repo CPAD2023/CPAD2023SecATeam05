@@ -1,4 +1,4 @@
-# Resolve react_native_pods.rb with node to allow for hoisting
+
 require Pod::Executable.execute_command('node', ['-p',
   'require.resolve(
     "react-native/scripts/react_native_pods.rb",
@@ -47,7 +47,6 @@ target 'cpadProject' do
 
   target 'cpadProjectTests' do
     inherit! :complete
-    # Pods for testing
   end
 
   post_install do |installer|
