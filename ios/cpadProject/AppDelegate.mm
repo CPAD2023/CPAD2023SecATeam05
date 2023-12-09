@@ -20,6 +20,6 @@
   return [[NSBundle mainBundle] URLForResource:@"main" withExtension:@"jsbundle"];
 #endif
 }
-// You can add your custom.
+// You can add .
 
 @end
